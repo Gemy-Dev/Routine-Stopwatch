@@ -13,9 +13,9 @@ A feature-rich Flutter stopwatch application designed for managing timed routine
 
 ## Screenshots
 
-| Home | Settings | Profile Edit |
-|------|----------|--------------|
-| Circular timer with start/pause/reset controls | List of saved profiles with quick-switch | Edit profile name, trigger time, sound, and duration |
+<p align="center">
+  <img src="assets/images/showcase.png" alt="Routine Stopwatch App Showcase" width="600"/>
+</p>
 
 ## Architecture
 
